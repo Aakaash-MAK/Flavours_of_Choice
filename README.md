@@ -25,5 +25,10 @@ Recipe Generation: Utilize the trained NLP model to generate recipes based on us
 
 ![Screenshot (477)](https://github.com/Aakaash-MAK/Flavours_of_Choice/assets/92644874/a1c8792f-20fb-4868-bcad-ed29256c0c84)
 
+![Screenshot (479)](https://github.com/Aakaash-MAK/Flavours_of_Choice/assets/92644874/4af15a4a-7b98-4f58-b857-f9a1cf184838)
+
+![Screenshot (481)](https://github.com/Aakaash-MAK/Flavours_of_Choice/assets/92644874/786b6c29-3737-4346-ae81-67f5c3b10ad5)
+
+
 For more refer Screenshots directory
 
