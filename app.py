@@ -80,14 +80,12 @@ def recommend():
     
     import random
 
-    # Generate random placeholder image URLs
     placeholder_images = ["/static/image/placeholder.jpg", "/static/image/placeholder2.jpg", "/static/image/placeholder3.jpg",
                           "/static/image/placeholder4.jpg", "/static/image/placeholder5.jpg", "/static/image/placeholder6.jpg",
                           "/static/image/placeholder7.jpg", "/static/image/placeholder8.jpg", "/static/image/placeholder9.jpg",
                           "/static/image/placeholder10.jpg", "/static/image/placeholder11.jpg", "/static/image/placeholder12.jpg",
                           "/static/image/placeholder13.jpg", "/static/image/placeholder14.jpg", "/static/image/placeholder15.jpg",]
 
-    # Add random placeholder image URLs to each recipe
     updated_recipes = []
     for recipe in recommended_recipes:
         updated_recipe = list(recipe[:3]) + [random.choice(placeholder_images)] + [recipe[3]]
