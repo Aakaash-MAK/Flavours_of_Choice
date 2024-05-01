@@ -3,7 +3,10 @@ Flavours_of_Choice is a web application designed to assist users in discovering 
 Installation
 To run the application locally, follow these steps:
 
-Clone the repository: git clone https://github.com/Aakaash-MAK/Flavours_of_Choice.git
+Clone the repository: git clone https://github.com/Aakaash-MAK/Flavours_of_Choice.git 
+
 Install dependencies: pip install -r requirements.txt
+
 Run the Flask application: python app.py
+
 Open a web browser and navigate to http://localhost:5000 to access the application.
